@@ -1,0 +1,19 @@
+{
+  "name": "laratest",
+  "version": "0.0.1",
+  "description": "A place for documenting all things related to TDD for laravel apps",
+  "main": "index.js",
+  "authors": {
+    "name": "Travis",
+    "email": "travis@travismhayes.com"
+  },
+  "repository": "/laratest",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
